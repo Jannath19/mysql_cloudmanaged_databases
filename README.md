@@ -1,5 +1,3 @@
-# mysql_cloudmanaged_databases
-
 # MySQL Cloud Managed Databases
 
 **Homework Assignment #4:** Explore MySQL and its implementation on leading cloud platforms: Azure and GCP.
